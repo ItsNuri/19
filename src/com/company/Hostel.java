@@ -31,4 +31,6 @@ public class Hostel implements RentForAble {
     public void rentForYear() {
         System.out.println("The one years rent for hostel is 20000 som.");
     }
+    
+    // write toString here
 }
